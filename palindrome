@@ -11,6 +11,7 @@ r=n%10;
 sum=(sum*10)+r;    
 n=n/10;    
 }    
+    <!--Demo On Github Webhook-->
 if(temp==sum)    
 printf("palindrome number ");    
 else    
